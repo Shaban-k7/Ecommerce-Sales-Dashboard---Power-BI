@@ -24,7 +24,7 @@ This dashboard helps e-commerce business stakeholders track sales and profit per
 |---|---|---|
 | ![Overview]<a href ="https://github.com/Shaban-k7/Ecommerce-Sales-Dashboard---Power-BI/blob/main/Screenshot%202026-07-06%20003106.png">Dashboard Overview</a> | ![Regional]<a href = "https://github.com/Shaban-k7/Ecommerce-Sales-Dashboard---Power-BI/blob/main/Screenshot%202026-07-06%20003147.png">Regional Sales</a> | ![Trend] <a href = "https://github.com/Shaban-k7/Ecommerce-Sales-Dashboard---Power-BI/blob/main/Screenshot%202026-07-06%20003132.png">Trends</a> |
 
-🎥 **Full walkthrough video:** [Add link — see upload guide below]
+🎥 **Full walkthrough video:** [https://www.linkedin.com/posts/shabaan-khan_powerbi-dataanalytics-datavisualization-ugcPost-7479611511158697984-VGJJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKHbG4BWPV1lxmD-US7Zs24zopEOf-zMBs]
 
 ## 🛠️ Tools & Skills Used
 
